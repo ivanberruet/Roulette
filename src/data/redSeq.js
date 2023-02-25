@@ -1,0 +1,1 @@
+export const redSeq = ["red","black","red","red","black","black"]
